@@ -1,0 +1,145 @@
+[
+  {
+    "schools": [
+      {
+        "ID":"1",
+        "title": "#2 BEST PRIVATE SCHOOL IN GHANA",
+        "name": "Galaxy Int'l School",
+        "description": "Galaxy International School is an international school located in Accra, Ghana. The school was established in 2001 to provide day and boarding facilities to children living in Ghana and children of foreign-based families and Ghanaians living outside Ghana.",
+        "level": "Primary",
+        "numStudents": "1000",
+        "type": "Private",
+        "location": "East-Legon, Greater Acrra",
+        "contact": "schoola@example.com",
+        "ratings": 5,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://images.unsplash.com/photo-1542404937-2132aa1fa6fc?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "website": "https://www.schoola.com"
+      },
+      {
+        "ID":"2",
+        "title": "#3 BEST PRIVATE SCHOOL IN GHANA",
+        "name": "American Int'l School",
+        "description": "AIS is a melting pot of cultures, talents, and ideas. We cherish and celebrate the diversity that enriches our learning environment. Together, we create an inclusive space where everyone feels valued and appreciated.",
+        "level": "Primary",
+        "numStudents": "1100",
+        "type": "Private",
+        "location": "East-Legon, Accra-Ghana",
+        "contact": "schoolb@example.com",
+        "ratings": 5,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://images.unsplash.com/photo-1624281754879-624ab36d3072?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "website": "https://www.schoolb.com"
+      },
+
+      {
+        "ID":"3",
+        "title": "#1 BEST HIGH SCHOOL IN GHANA",
+        "name": "Wesley Girls' High School",
+        "description": "Wesley Girls' High School, Cape Coast, was established in 1836 with 25 girls, by the wife of a Methodist Minister. It started as a primary school with the aim of offering girls proper training in reading and writing, sewing and housekeeping and more especially training in moral and spiritual development.",
+        "level": "SHS",
+        "numStudents": "800",
+        "type": "Public",
+        "location": "Cape-Coast",
+        "contact": "schoolc@example.com",
+        "ratings": 5,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://images.unsplash.com/photo-1590579491624-f98f36d4c763?q=80&w=1443&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       
+        "website": "https://wesleygirls.edu.gh/"
+      },
+      {
+        "ID":"4",
+        "title": "#6 BEST HIGH SCHOOL IN GHANA",
+        "name": "St. John's School",
+        "description": "St. John's School is an all-boys' second-cycle Roman Catholic school located at Sekondi in the Western Region of Ghana.",
+        "level": "SHS",
+        "numStudents": "2100",
+        "type": "Public",
+        "location": "Sekondi, Ghana",
+        "contact": "schoold@example.com",
+        "ratings": 4,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://images.unsplash.com/photo-1613876519051-99ecba151c6a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "website": "https://www.schoold.com"
+      },
+      {
+        "ID":"5",
+        "title": "#10 BEST PRIMARY SCHOOL IN GHANA",
+        "name": "M.A School",
+        "description": "M.A School is a government-type school located in the heart of Nsawam, in the Eastern Region of Ghana",
+        "level": "Primary",
+        "numStudents": "800",
+        "type": "Public",
+        "location": "Nsawam, Eastern Region",
+        "contact": "schoole@example.com",
+        "ratings": 2,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://images.unsplash.com/photo-1613901118748-3da557eb37cf?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "website": "https://www.schoole.com"
+      },
+      {
+        "ID":"6",
+        "title": "#5 BEST PUBLIC SCHOOL IN GHANA",
+        "name": "Notre Dame Girls Senior High",
+        "description": "Notre Dame Girls Senior High School was established in 1987 as a private school by the School Sisters of Notre Dame",
+        "level": "SHS",
+        "numStudents": "2000",
+        "type": "Public",
+        "location": "Sunyani, Bono Region",
+        "contact": "schoolf@example.com",
+        "ratings": 3,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://images.unsplash.com/photo-1706078352329-977b4cb3f889?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "website": "https://www.schoolf.com"
+      },
+      {
+        "ID":"7",
+        "title": "#9 BEST HIGH SCHOOL IN GHANA",
+        "name": "Bimbilla Senior High School",
+        "description": "Bimbilla Senior High was established in 1981 as a day school with Mr. L.T. Tingbani as the headmaster. The school is a mixed school and has produced prominent people such as army officers, coordinating directors.",
+        "level": "SHS",
+        "numStudents": "700",
+        "type": "Public",
+        "location": "Bimbilla, Northern Region",
+        "ratings": 3,
+        "contact": "schoolg@example.com",
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://cdn.pixabay.com/photo/2013/01/20/04/53/college-75535_960_720.jpg",
+       
+        "website": "https://www.schoolg.com"
+      },
+      {
+        "ID":"8",
+        "title": "#7 BEST PUBLIC SHS IN GHANA",
+        "name": "Bolgatanga Senior High School",
+        "description": "Bolgatanga Senior High School (Big BOSS) is situated in Winkogo, about 8km south of Bolgatanga, the Upper East regional capital.",
+        "level": "SHS",
+        "numStudents": "550",
+        "type": " Public",
+        "tuitionFees": "$9,500",
+        "location": "Bolga, Upper East Region",
+        "contact": "020 799 0294",
+        "ratings": 2,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://images.unsplash.com/photo-1690951789781-2926b008a290?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "website": "https://web.facebook.com/greatbigboss/?_rdc=1&_rdr"
+      },
+      {
+        "ID":"9",
+        "title": "#9 BEST PUBLIC SHS IN GHANA",
+        "name": "Abutia Senior High",
+        "description": "Abutia Senior High Technical is one of the senior high schools in VOLTA Region at Abutia of Ho West district.",
+        "level": "SHS",
+        "numStudents": "400",
+        "type": "Public",
+        "location": "Abutia, Volta Region",
+        "contact": "0207675981",
+        "ratings": 4,
+        "reviewsimage": "https://placehold.co/100x20",
+        "image": "https://cdn.pixabay.com/photo/2024/04/05/16/30/ai-generated-8677694_960_720.jpg",
+        "website": "https://web.facebook.com/AbutiaSeniorHighTechnicalSchool/?_rdc=1&_rdr"
+      }
+    ]
+  }
+]

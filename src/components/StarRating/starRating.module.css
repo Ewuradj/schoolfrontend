@@ -1,0 +1,22 @@
+
+
+
+
+.star-rating {
+    text-align: center;
+  }
+  
+  .star-rating .stars {
+    font-size: 24px;
+    color: #ccc;
+  }
+  
+  .star-rating .star {
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .star-rating .filled,
+  .star-rating .star:hover {
+    color: gold;
+  }

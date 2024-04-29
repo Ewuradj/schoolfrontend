@@ -1,0 +1,55 @@
+.school-region {
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px 5px 10px 5px;
+    
+    border-radius: 18px;
+    background-color: rgba(0, 0, 0, 0.603); /* Set black background with 50% opacity */
+    color: white; /* Set text color to white for better visibility */
+  }
+  
+  .region-search-container {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+  }
+  
+  .select-container {
+    flex: 1; /* Let the container flex to take available space */
+  }
+  
+  .region-select {
+    width: 100%; /* Set the width of the select element to 100% */
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background: #f5f2f2;
+    color: black;
+  }
+  
+  .search-icon {
+    font-size: 24px;
+    color: #999;
+    padding: 8px;
+    cursor: pointer;
+    
+  }
+  .search-icon:hover {
+    color:#59ADA5; /* Change color on hover */
+    transform: translateY(-2px);
+  }
+  
+  
+  .school-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .school-list li {
+    margin-bottom: 8px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  

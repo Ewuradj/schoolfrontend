@@ -1,0 +1,688 @@
+ [{
+    "Greater Accra Region": [
+      
+      {
+        "ID": "a",
+        "name": "Accra Academy",
+        "number_of_students": 1200,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 1000",
+        "location": "Bubuashie, Accra",
+        "region":"Greater Accra",
+        "contact": "+233 24 987 6543",
+        "reviews": "4.2/5",
+        "image": "https://cdn.pixabay.com/photo/2022/07/04/12/57/window-7301126_1280.jpg",
+        "school_website": "www.accraacademy.edu.gh"
+      },
+      {
+        "name": "Christ the King International School",
+        "level": "Primary",
+        "number_of_students": 400,
+        "type": "Private",
+        "tuition_fees": "GHC 2,500 per term",
+        "location": "Accra",
+        "contact": "+233 55 345 6789",
+        "reviews": "Known for its nurturing environment and emphasis on holistic education.",
+        "image": "https://as2.ftcdn.net/v2/jpg/06/29/62/17/1000_F_629621701_X1RELZWodwmMjmOxZKtjtL78bAnFS6Cg.jpg",
+        "school_website": "www.ctkis.edu.gh",
+        "region": "Greater Accra"
+      },
+      {
+        "name": "Ridge Church School",
+        "level": "Primary",
+        "number_of_students": 300,
+        "type": "Private",
+        "tuition_fees": "GHC 2,000 per term",
+        "location": "Accra",
+        "contact": "+233 30 277 8812",
+        "reviews": "Focuses on both academic excellence and character development.",
+        "image": "https://as2.ftcdn.net/v2/jpg/06/29/62/17/1000_F_629621721_56a80w8RVCNByPlwAcwgCgM7EQutUEst.jpg",
+        "school_website": "www.ridgechurch.edu.gh",
+        "region": "Greater Accra"
+      }
+    ],
+    "Ashanti Region": [
+      {
+        "ID": "b",
+        "name": "Prempeh College",
+        "number_of_students": 1500,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 900",
+        "location": "Kumasi",
+        "region":"Ashanti",
+        "contact": "+233 50 123 4567",
+        "reviews": "4.7/5",
+        "image": "https://cdn.pixabay.com/photo/2019/05/29/00/43/johns-hopkins-university-4236470_1280.jpg",
+        "school_website": "www.prempehcollege.edu.gh"
+      },
+      {
+        "ID":  "c",
+        "name": "St. Louis Senior High School",
+        "number_of_students": 1100,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 2000",
+        "location": "Kumasi",
+        "region":"Ashanti",
+        "contact": "+233 50 987 6543",
+        "reviews": "4.3/5",
+        "image": "https://cdn.pixabay.com/photo/2017/09/01/13/56/university-2704306_1280.jpg",
+        "school_website": "www.stlouisschool.org"
+      },
+      {
+        "name": "Faith Montessori School",
+        "level": "Primary",
+        "number_of_students": 400,
+        "type": "Private",
+        "tuition_fees": "GHC 3,500 per term",
+        "location": "Kumasi",
+        "contact": "+233 55 678 1234",
+        "reviews": "Known for its child-centered approach to learning and nurturing environment.",
+        "image": "https://as2.ftcdn.net/v2/jpg/06/30/02/03/1000_F_630020305_A4YHhGiaiW1kuDJHkmiVKSbQMgTCJjkc.jpg",
+        "school_website": "www.faithmontessori.edu.gh",
+        "region": "Ashanti"
+      },
+      {
+        "name": "Anwomaso International School",
+        "level": "Primary",
+        "number_of_students": 250,
+        "type": "Private",
+        "tuition_fees": "GHC 2,800 per term",
+        "location": "Kumasi",
+        "contact": "+233 55 123 4567",
+        "reviews": "Provides a supportive learning environment and emphasizes creativity.",
+        "image": "https://as2.ftcdn.net/v2/jpg/07/24/93/67/1000_F_724936760_9lgb8fRzLs4VsRaymR2wWz9qYdakschO.jpg",
+        "school_website": "www.anwomasointernationalschool.edu.gh",
+        "region": "Ashanti"
+      }
+    ],
+    "Brong-Ahafo Region": [
+      {
+        "ID": "d",
+        "name": "Sunyani Senior High School",
+        "number_of_students": 1300,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Sunyani",
+        "region":"Brong-Ahafo",
+        "contact": "+233 27 123 4567",
+        "reviews": "4.4/5",
+        "image": "https://cdn.pixabay.com/photo/2020/06/02/16/08/high-school-5251586_1280.jpg",
+        "school_website": "www.sunyanischool.edu.gh"
+      },
+      {
+        "ID":"e",
+        "name": "Sacred Heart Senior High School",
+        "number_of_students": 1000,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 1800",
+        "location": "Techiman",
+        "region":"Brong-Ahafo",
+        "contact": "+233 27 987 6543",
+        "reviews": "4.1/5",
+        "image": "https://images.pexels.com/photos/5896843/pexels-photo-5896843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "school_website": "www.sacredheartschool.edu.gh"
+      }
+    ],
+    "Central Region": [
+      {
+        "ID":"f",
+        "name": "Wesley Girls' High School",
+        "number_of_students": 1400,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 850",
+        "location": "Cape Coast",
+        "region":"Central",
+        "contact": "+233 23 123 4567",
+        "reviews": "4.6/5",
+        "image": "https://images.unsplash.com/photo-1590579491624-f98f36d4c763?q=80&w=1443&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "school_website": "www.wesleygirls.edu.gh"
+      },
+      {
+        "ID":"g",
+        "name": "Holy Child School",
+        "number_of_students": 1200,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 1900",
+        "location": "Cape Coast",
+        "region":"Central",
+        "contact": "+233 23 987 6543",
+        "reviews": "4.2/5",
+        "image": "https://images.pexels.com/photos/19757369/pexels-photo-19757369/free-photo-of-building-of-tanjungpura-university-library-pontianak-indonesia.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "school_website": "www.holychildschool.edu.gh"
+      },
+      {
+        "ID":"h",
+        "name": "Mfantsiman Girls' Secondary School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 800",
+        "location": "Saltpond, Central Region",
+        "region":"Central",
+        "contact": "+233 24 123 4567",
+        "reviews": "4.5/5",
+        "image": "https://images.pexels.com/photos/3042432/pexels-photo-3042432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "school_website": "www.mfantsimangirls.edu.gh"
+      },
+      {
+        "name": "Adisadel Preparatory School",
+        "level": "Primary",
+        "number_of_students": 300,
+        "type": "Private",
+        "tuition_fees": "GHC 2,500 per term",
+        "location": "Cape Coast",
+        "contact": "+233 27 890 1234",
+        "reviews": "Known for its excellent academic standards and supportive environment.",
+        "image": "https://as2.ftcdn.net/v2/jpg/07/29/44/17/1000_F_729441751_LJQVwoXnQyZ7yLTcrEjNna6m0SKL6f8E.jpg",
+        "school_website": "www.adisadelprep.edu.gh",
+        "region": "Central"
+      },
+      {
+        "name": "University Practice Primary School",
+        "level": "Primary",
+        "number_of_students": 250,
+        "type": "Public",
+        "tuition_fees": "Free (Government-funded)",
+        "location": "Cape Coast",
+        "contact": "+233 24 567 8901",
+        "reviews": "Offers a strong academic foundation and promotes extracurricular activities.",
+        "image": "https://as2.ftcdn.net/v2/jpg/01/18/12/29/1000_F_118122963_IHMY5wfBF2QdlBBHLMT7isp1ZLNLpc4y.jpg",
+        "school_website": null,
+        "region": "Central"
+      }
+    ],
+
+    "Eastern Region": [
+      {
+        "ID":"i",
+        "name": "Pope John Senior High School and Minor Seminary",
+        "number_of_students": 1100,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 750",
+        "location": "Koforidua, Eastern Region",
+        "region":"Eastern",
+        "contact": "+233 20 123 4567",
+        "reviews": "4.5/5",
+        "image": "https://img.freepik.com/free-photo/red-buildings-households_1127-2024.jpg?t=st=1714083597~exp=1714087197~hmac=ab9a24abf82c3b4b13f7fc003f403a0774aa321d10a4f1818c3f3cd1d9efb487&w=740",
+        "school_website": "www.popejohn.edu.gh"
+      },
+      {
+        "ID":"j",
+        "name": "St. Roses Senior High School",
+        "number_of_students": 1000,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 1700",
+        "location": "Akwatia, Eastern Region",
+        "region":"Eastern",
+        "contact": "+233 20 987 6543",
+        "reviews": "4.3/5",
+        "image": "https://img.freepik.com/premium-photo/interior-school-classroom-wooden-floor-desks-concept-education-learning_103577-5812.jpg?w=900",
+        "school_website": "www.strosesschool.edu.gh"
+      },
+      {
+        "name": "Mangoase Preparatory School",
+        "level": "Primary",
+        "number_of_students": 200,
+        "type": "Private",
+        "tuition_fees": "GHC 2,300 per term",
+        "location": "Koforidua",
+        "contact": "+233 24 789 0123",
+        "reviews": "Focused on holistic development and individualized attention to students.",
+        "image": "https://as2.ftcdn.net/v2/jpg/03/34/08/67/1000_F_334086779_U6NRhi1U5oFNcmwMXYOx9bnI79jfoiy8.jpg",
+        "school_website": "www.mangoaseprep.edu.gh",
+        "region": "Eastern"
+      },
+      {
+        "name": "Adukrom Methodist Primary School",
+        "level": "Primary",
+        "number_of_students": 150,
+        "type": "Public",
+        "tuition_fees": "Free (Government-funded)",
+        "location": "Adukrom",
+        "contact": "+233 24 567 8901",
+        "reviews": "Provides quality education with a strong emphasis on discipline.",
+        "image": "https://as1.ftcdn.net/v2/jpg/02/08/74/50/1000_F_208745095_DLbXcBUjgUQaX5PWPGYPQEEGdTGww7N0.jpg",
+        "school_website": null,
+        "region": "Eastern"
+        }
+    ],
+    "Northern Region": [
+      {
+        "ID":"k",
+        "name": "Tamale Senior High School",
+        "number_of_students": 1200,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Tamale, Northern Region",
+        "contact": "+233 24 123 4567",
+        "region":"Northern",
+        "reviews": "4.4/5",
+        "image": "https://img.freepik.com/premium-photo/modern-classroom-interior-light-tones_241146-108.jpg?w=740",
+        "school_website": "www.tamaleschool.edu.gh"
+      },
+      {
+        "ID":"l",
+        "name": "Ghana Senior High School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 800",
+        "location": "Tamale, Northern Region",
+        "region":"Northern",
+        "contact": "+233 24 987 6543",
+        "reviews": "4.2/5",
+        "image": "https://img.freepik.com/premium-photo/school-classroom-with-chairsdesks-chalkboard-without-student_258219-264.jpg?w=740",
+        "school_website": "www.ghanaschool.edu.gh"
+      },
+      {
+        "name": "Tamale Islamic Preparatory School",
+        "level": "Primary",
+        "number_of_students": 400,
+        "type": "Private",
+        "tuition_fees": "GHC 2,500 per term",
+        "location": "Tamale",
+        "contact": "+233 37 890 1234",
+        "reviews": "Known for its strong Islamic education and academic excellence.",
+        "image": "https://as1.ftcdn.net/v2/jpg/03/90/38/46/1000_F_390384602_mDXGoDL78Rd3za99mwZhys5gwxzSypva.jpg",
+        "school_website": "www.tamaleislamicprep.edu.gh",
+        "region": "Northern"
+      },
+      {
+        "name": "Tamale Experimental Primary School",
+        "level": "Primary",
+        "number_of_students": 300,
+        "type": "Public",
+        "tuition_fees": "Free (Government-funded)",
+        "location": "Tamale",
+        "contact": "+233 37 567 8901",
+        "reviews": "Provides quality education with a focus on practical learning.",
+        "image": "https://as2.ftcdn.net/v2/jpg/03/72/43/31/1000_F_372433152_jHycHrN8n4BkH23ti74NbZ2I2pOgs3FR.jpg",
+        "school_website": null,
+        "region": "Northern"
+      }
+      
+    ],
+    "Upper East Region": [
+      {
+        "ID":"m",
+        "name": "Bolgatanga Girls' Senior High School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Bolgatanga, Upper-East",
+        "region":"Upper-East",
+        "contact": "+233 26 123 4567",
+        "reviews": "4.3/5",
+        "image": "https://as2.ftcdn.net/v2/jpg/04/19/83/75/1000_F_419837569_IPzPyQurljk1BGS2sCZi743aCb9gbfZk.jpg",
+        "school_website": "www.bolgatangagirls.edu.gh"
+      },
+      {
+        "ID":"n",
+        "name": "Notre Dame Seminary Senior High School",
+        "number_of_students": 900,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 1600",
+        "location": "Navrongo, Upper-East",
+        "region":"Upper-East",
+        "contact": "+233 26 987 6543",
+        "reviews": "4.1/5",
+        "image": "https://img.freepik.com/free-photo/group-african-kids-learning-together_23-2148892523.jpg?t=st=1714102301~exp=1714105901~hmac=4b9bb9d0b24ff0e915ac8eedd4ec4eaa83d59a9c52572892c3dc2386694099b7&w=740",
+        "school_website": "www.notredameseminary.edu.gh"
+      },
+      {
+        "name": "Bolgatanga Methodist Preparatory School",
+        "level": "Primary",
+        "number_of_students": 350,
+        "type": "Private",
+        "tuition_fees": "GHC 2,600 per term",
+        "location": "Bolgatanga",
+        "contact": "+233 38 789 0123",
+        "reviews": "Known for its disciplined environment and academic excellence.",
+        "image": "https://as1.ftcdn.net/v2/jpg/02/87/45/00/1000_F_287450059_Y0kZWAxy0sD6HwgpYjhYwbSB8pRij717.jpg",
+        "school_website": "www.bolgatangamethodistprep.edu.gh",
+        "region": "Upper East"
+      },
+      {
+        "name": "Sandema Experimental Primary School",
+        "level": "Primary",
+        "number_of_students": 300,
+        "type": "Public",
+        "tuition_fees": "Free (Government-funded)",
+        "location": "Sandema",
+        "contact": "+233 38 543 2109",
+        "reviews": "Provides quality education with a focus on practical skills.",
+        "image": "https://as2.ftcdn.net/v2/jpg/03/20/44/97/1000_F_320449763_B9c9api2gxW54lcv5lK0DcucanqWoxpp.jpg",
+        "school_website": null,
+        "region": "Upper East"
+      }
+    ],
+    "Upper West Region": [
+      {
+        "ID":"o",
+        "name": "Wa Senior High School",
+        "number_of_students": 1100,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 750",
+        "location": "Wa,Upper-West Region",
+        "region":"Upper-West",
+        "contact": "+233 28 123 4567",
+        "reviews": "4.2/5",
+        "image": "https://img.freepik.com/premium-photo/facade-beautiful-red-modern-building-background-sunset-sky-exploring-armenia_130291-4406.jpg?w=740",
+        "school_website": "www.waschool.edu.gh"
+      },
+      {
+        "ID":"p",
+        "name": "Tumu Senior High School",
+        "number_of_students": 800,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Tumu, Upper-West Region",
+        "region":"Upper-West",
+        "contact": "+233 28 987 6543",
+        "reviews": "4.0/5",
+        "image": "https://img.freepik.com/premium-photo/grand-hornu-old-industrial-coal-mining-complex-company-town-hornu-near-mons-belgium_571748-771.jpg?w=740",
+        "school_website": "www.tumuschool.edu.gh"
+      },
+      {
+        "name": "Wa Methodist Preparatory School",
+        "level": "Primary",
+        "number_of_students": 400,
+        "type": "Private",
+        "tuition_fees": "GHC 2,700 per term",
+        "location": "Wa",
+        "contact": "+233 39 890 1234",
+        "reviews": "Known for its academic excellence and holistic education.",
+        "image": "https://as2.ftcdn.net/v2/jpg/03/91/24/99/1000_F_391249909_GNE8FchxhraNWlfSH0akaxLoTuXtZ12g.jpg",
+        "school_website": "www.wamethodistprep.edu.gh",
+        "region": "Upper West"
+      },
+      {
+        "name": "Nandom Experimental Primary School",
+        "level": "Primary",
+        "number_of_students": 350,
+        "type": "Public",
+        "tuition_fees": "Free (Government-funded)",
+        "location": "Nandom",
+        "contact": "+233 39 567 8901",
+        "reviews": "Provides quality education with a focus on community involvement.",
+        "image": "https://as1.ftcdn.net/v2/jpg/06/18/54/26/1000_F_618542682_UI9kk9LvHw5gRlnkDboh3S11yctjnJhI.jpg",
+        "school_website": null,
+        "region": "Upper West"
+      }
+    ],
+    "Western Region": [
+      {
+        "ID":"q",
+        "name": "St. John's School",
+        "number_of_students": 1200,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 800",
+        "location": "Sekondi-Takoradi, Western Region",
+        "region":"Western",
+        "contact": "+233 31 123 4567",
+        "reviews": "4.5/5",
+        "image": "https://img.freepik.com/premium-photo/apartment-residential-townhouse-building-with-outdoor-concept-street-backgrounds_250132-6288.jpg?w=740",
+        "school_website": "www.stjohnsschool.edu.gh"
+      },
+      {
+        "ID":"r",
+        "name": "Archbishop Porter Girls' Secondary School",
+        "number_of_students": 1000,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 1700",
+        "location": "Sekondi-Takoradi, Western Region",
+        "region":"Western",
+        "contact": "+233 31 987 6543",
+        "reviews": "4.3/5",
+        "image": "https://img.freepik.com/free-photo/large-modern-office-building_1127-3072.jpg?t=st=1714102646~exp=1714106246~hmac=796de796ee8c2910f45e889fe8292edb50176faf4903d17cee1d7d4e024c41ff&w=740",
+        "school_website": "www.archbishopporterschool.edu.gh"
+      },
+      {
+        "name": "Adisadel Preparatory School",
+        "level": "Primary",
+        "number_of_students": 300,
+        "type": "Private",
+        "tuition_fees": "GHC 2,500 per term",
+        "location": "Cape Coast",
+        "contact": "+233 27 890 1234",
+        "reviews": "Known for its excellent academic standards and supportive environment.",
+        "image": "https://as1.ftcdn.net/v2/jpg/05/79/20/60/1000_F_579206075_AkLe6wtkKDCSJzkWI39AZtamFM5kebKr.jpg",
+        "school_website": "www.adisadelprep.edu.gh",
+        "region": "Central"
+      },
+      {
+        "name": "University Practice Primary School",
+        "level": "Primary",
+        "number_of_students": 250,
+        "type": "Public",
+        "tuition_fees": "Free (Government-funded)",
+        "location": "Cape Coast",
+        "contact": "+233 24 567 8901",
+        "reviews": "Offers a strong academic foundation and promotes extracurricular activities.",
+        "image": "https://as1.ftcdn.net/v2/jpg/02/12/06/38/1000_F_212063859_5g403heO4mPjlpW6LuUdlvdLCrxkmR1h.jpg",
+        "school_website": null,
+        "region": "Central"
+      }
+    ],
+    "Volta Region": [
+      {
+        "ID":"s",
+        "name": "Mawuli School",
+        "number_of_students": 1100,
+        "type": "Public",
+        "tuition_fees": " from GH₵ 750",
+        "location": "Ho, Volta Region",
+        "region":"Volta",
+        "contact": "+233 36 123 4567",
+        "reviews": "4.4/5",
+        "image": "https://img.freepik.com/premium-photo/thai-lecture-chairs-tables_33745-1175.jpg?w=740",
+        "school_website": "www.mawulischool.edu.gh"
+      },
+      {
+        "ID":"t",
+        "name": "Bishop Herman College",
+        "number_of_students": 1000,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 1800",
+        "location": "Kpando, Volta Region",
+        "region":"Volta",
+        "contact": "+233 36 987 6543",
+        "reviews": "4.2/5",
+        "image": "https://img.freepik.com/premium-photo/blurry-view-elementary-class-room-no-kid-teacher-with-chairs-tables-campuscreated-with-generative-ai-technology_132358-9099.jpg?w=826",
+        "school_website": "www.bishophermanschool.edu.gh"
+      },
+      {
+        "name": "Mawuli Preparatory School",
+        "level": "Primary",
+        "number_of_students": 350,
+        "type": "Private",
+        "tuition_fees": "GHC 2,600 per term",
+        "location": "Ho",
+        "contact": "+233 36 789 0123",
+        "reviews": "Known for its excellent academic standards and extracurricular activities.",
+        "image": "https://as2.ftcdn.net/v2/jpg/03/29/72/03/1000_F_329720399_KN8p9cV6EAlaXpKYQCIuk60qXoHiu6G4.jpg",
+        "school_website": "www.mawuliprep.edu.gh",
+        "region": "Volta"
+      },
+      {
+        "name": "Volta Regional Model Primary School",
+        "level": "Primary",
+        "number_of_students": 300,
+        "type": "Public",
+        "tuition_fees": "Free (Government-funded)",
+        "location": "Ho",
+        "contact": "+233 36 543 2109",
+        "reviews": "Provides quality education with a focus on holistic development.",
+        "image": "https://as2.ftcdn.net/v2/jpg/05/89/05/81/1000_F_589058166_4mr43yZp8GDygNWkv6K3RAIlieVEwtU5.jpg",
+        "school_website": null,
+        "region": "Volta"
+      }
+    ],
+    "Western North Region": [
+      {
+        "ID":"u",
+        "name": "Sefwi Wiawso Senior High School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Sefwi Wiawso, Western-North Region",
+        "region":"Western-North",
+        "contact": "+233 39 123 4567",
+        "reviews": "4.3/5",
+        "image": "https://img.freepik.com/free-photo/building_1127-3357.jpg?t=st=1714102959~exp=1714106559~hmac=e89b76cc636e5ef72b8d1888eeabae35dfa8a220e6560e33028d87c53a9e3a40&w=740",
+        "school_website": "www.sefwiwiawsoschool.edu.gh"
+      },
+      {
+        "ID":"v",
+        "name": "Bibiani Senior High School",
+        "number_of_students": 900,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 650",
+        "location": "Bibiani, Western-North Region",
+        "region":"Western-North",
+        "contact": "+233 39 987 6543",
+        "reviews": "4.1/5",
+        "image": "https://images.unsplash.com/photo-1584750153892-38414eb8e76a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "school_website": "www.bibianischool.edu.gh"
+      }
+    ],
+    "Bono East Region": [
+      {
+        "ID":"w",
+        "name": "Techiman Senior High School",
+        "number_of_students": 1200,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 750",
+        "location": "Techiman, Bono-East Region",
+        "region":"Bono-East",
+        "contact": "+233 35 123 4567",
+        "reviews": "4.4/5",
+        "image": "https://images.unsplash.com/photo-1616512659455-111d3367649f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "school_website": "www.techimanschool.edu.gh"
+      },
+      {
+        "ID":"x",
+        "name": "Nsutaman Catholic Senior High School",
+        "number_of_students": 1000,
+        "type": "Private",
+        "tuition_fees": "from GH₵ 1700",
+        "location": "Nsuta, Bono-East Region",
+        "region":"Bono-East",
+        "contact": "+233 35 987 6543",
+        "reviews": "4.2/5",
+        "image": "https://images.unsplash.com/photo-1619610250896-1f26b52c3f8d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "school_website": "www.nsutamancatholicschool.edu.gh"
+      }
+    ],
+    "Ahafo Region": [
+      {
+        "ID":"y",
+        "name": "Goaso Senior High School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Goaso, Ahafo Region",
+        "region":"Ahafo",
+        "contact": "+233 20 123 4567",
+        "reviews": "4.3/5",
+        "image": "https://images.unsplash.com/photo-1619610251170-4858e757a07a?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "school_website": "www.goasoschool.edu.gh"
+      },
+      {
+        "ID":"z",
+        "name": "Mim Senior High School",
+        "number_of_students": 900,
+        "type": "Public",
+        "tuition_fees": " from GH₵ 650",
+        "location": "Mim, Ahafo Region",
+        "region":"Ahafo",
+        "contact": "+233 20 987 6543",
+        "reviews": "4.1/5",
+        "image": "https://images.unsplash.com/photo-1599725427295-6ed79ff8dbef?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "school_website": "www.mimschool.edu.gh"
+      }
+    ],
+    "Savannah Region": [
+      {
+        "ID":"a1",
+        "name": "Damongo Senior High School",
+        "number_of_students": 1100,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 750",
+        "location": "Damongo, Savannah Region",
+        "region":"Savannah",
+        "contact": "+233 37 123 4567",
+        "reviews": "4.4/5",
+        "image": "https://cdn.pixabay.com/photo/2013/02/21/17/42/kansai-university-84363_1280.jpg",
+        "school_website": "www.damongoschool.edu.gh"
+      },
+      {
+        "ID":"b2",
+        "name": "Bole Senior High School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Bole, Savannah Region",
+        "region":"Savannah",
+        "contact": "+233 37 987 6543",
+        "reviews": "4.2/5",
+        "image": "https://cdn.pixabay.com/photo/2016/09/28/04/35/classroom-1699745_1280.jpg",
+        "school_website": "www.boleschool.edu.gh"
+      }
+    ],
+    "North East Region": [
+      {
+        "ID":"c3",
+        "name": "Walewale Senior High School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 700",
+        "location": "Walewale,North-East Region",
+        "region":"North-East",
+        "contact": "+233 38 123 4567",
+        "reviews": "4.3/5",
+        "image": "https://img.freepik.com/premium-photo/cartoon-illustration-room-with-blue-background-with-window-map-room-with-blue-background_662214-60446.jpg?w=740",
+        "school_website": "www.walewaleschool.edu.gh"
+      },
+      {
+        "ID":"d4",
+        "name": "Nalerigu Senior High School",
+        "number_of_students": 900,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 650",
+        "location": "Nalerigu, North East Region",
+        "region":"North-East",
+        "contact": "+233 38 987 6543",
+        "reviews": "4.1/5",
+        "image": "https://img.freepik.com/premium-photo/photograph-beautiful-school-classroom-recess-time_896973-153.jpg?w=360",
+        "school_website": "www.naleriguschool.edu.gh"
+      }
+    ],
+    "Oti Region": [
+      {
+        "ID":"e5",
+        "name": "Oti Boateng Senior High School",
+        "number_of_students": 1100,
+        "type": "Public",
+        "tuition_fees": "from GH₵ 750",
+        "location": "Dambai, Oti Region",
+        "region":"Oti",
+        "contact": "+233 36 123 4567",
+        "reviews": "4.2/5",
+        "image": "https://img.freepik.com/premium-photo/empty-classroom-blurred-school-classroom-without-students-with-empty-chairs-tables_41969-14964.jpg?w=740",
+        "school_website": "www.otiboatengschool.edu.gh"
+      },
+      {
+        "ID":"f6",
+        "name": "Krachi Senior High Technical School",
+        "number_of_students": 1000,
+        "type": "Public",
+        "tuition_fees": " from GH₵ 700",
+        "location": "Krachi, Oti Region",
+        "region":"Oti",
+        "contact": "+233 36 987 6543",
+        "reviews": "4.0/5",
+        "image": "https://img.freepik.com/premium-photo/classroom-with-desk-chairs-with-sign-that-says-school-it_274326-1948.jpg?w=826",
+        "school_website": "www.krachitechnicalschool.edu.gh"
+      }
+    ]
+  }]
+  

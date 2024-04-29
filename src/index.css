@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.border-2 {
+    border-width: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    box-shadow: 10px 10px 5px #CBD5E0;
+    };
+
+    .shadow-md {
+      box-shadow: 10px 10px 5px #6a9dd4;
+    }
+
+  
